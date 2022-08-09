@@ -3,7 +3,7 @@
 
 ## File uploading
 
-Dear student, in this task you should complete almost the same task. Upload data from `Profile.txt` file, parse and map on class `Profile` **using `java.nio` assets.
+Dear student, in this task you have to upload data from `Profile.txt` file, parse and map on class `Profile` **using `java.nio` assets.
 Using other options (including libraries) for uploading are prohibited(except `java.io`). For other purposes you can use only what you have already studied
 from previous stages and modules.**
 
