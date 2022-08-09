@@ -1,4 +1,4 @@
-package com.epam.mjc.io;
+package com.epam.mjc.nio;
 
 import java.io.File;
 
